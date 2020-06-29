@@ -3,6 +3,12 @@ name = "taginfo"
 version = "0.1.0"
 authors = ["Philip Peterson <philip.c.peterson@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/philip-peterson/taginfo"
+license = "MIT/Apache-2.0"
+keywords = ["text-processing", "graphics", "parsing", "web-programming"]
 
 [dependencies]
 lazy_static = "1.3.0"
+
+[package.metadata.docs.rs]
+features = []
