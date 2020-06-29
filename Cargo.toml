@@ -2,6 +2,7 @@
 name = "taginfo"
 version = "0.1.0"
 authors = ["Philip Peterson <philip.c.peterson@gmail.com>"]
+description = "Provides classification, validation of tag names from HTML, SVG, and MathML"
 edition = "2018"
 repository = "https://github.com/philip-peterson/taginfo"
 license = "MIT/Apache-2.0"
